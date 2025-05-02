@@ -1,0 +1,15 @@
+2025-05-01,21.39.21,www2.d0l.net,www.dol.go.th
+2025-04-11,9.30.15,www.dgab.net,www.dga.or.th
+2025-05-02,14.22.45,www2.m0e.net,www.moe.go.th
+2025-04-28,10.11.37,www2.m0ph.net,www.moph.go.th
+2025-04-30,08.47.12,www.nbct.net,www.nbtc.go.th
+2025-04-25,15.33.59,www2.m0i.net,www.moi.go.th
+2025-04-29,19.04.21,www.m0ac.org,www.moac.go.th
+2025-04-26,11.56.08,www.0csc.info,www.ocsc.go.th
+2025-04-27,17.15.44,www3.eg@t.net,www.egat.co.th
+2025-04-24,13.03.33,www2.mf@.org,www.mfa.go.th
+2025-05-01,07.26.19,www.o@9.net,www.oag.go.th
+2025-04-23,20.40.52,www.bo1.biz,www.boi.go.th
+2025-04-26,11.56.08,www.0csc.info,www.ocsc.go.th
+2025-05-02,14.22.45,www2.m0e.net,www.moe.go.th
+
